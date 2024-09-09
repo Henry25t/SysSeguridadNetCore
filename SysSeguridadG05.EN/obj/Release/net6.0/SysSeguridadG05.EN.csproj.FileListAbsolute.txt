@@ -1,0 +1,13 @@
+C:\Users\henry\OneDrive\Documentos\SysSeguridadG05-Net\SysSeguridadG05\SysSeguridadG05.EN\bin\Release\net6.0\SysSeguridadG05.EN.deps.json
+C:\Users\henry\OneDrive\Documentos\SysSeguridadG05-Net\SysSeguridadG05\SysSeguridadG05.EN\bin\Release\net6.0\SysSeguridadG05.EN.dll
+C:\Users\henry\OneDrive\Documentos\SysSeguridadG05-Net\SysSeguridadG05\SysSeguridadG05.EN\bin\Release\net6.0\SysSeguridadG05.EN.pdb
+C:\Users\henry\OneDrive\Documentos\SysSeguridadG05-Net\SysSeguridadG05\SysSeguridadG05.EN\obj\Release\net6.0\SysSeguridadG05.EN.csproj.AssemblyReference.cache
+C:\Users\henry\OneDrive\Documentos\SysSeguridadG05-Net\SysSeguridadG05\SysSeguridadG05.EN\obj\Release\net6.0\SysSeguridadG05.EN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\OneDrive\Documentos\SysSeguridadG05-Net\SysSeguridadG05\SysSeguridadG05.EN\obj\Release\net6.0\SysSeguridadG05.EN.AssemblyInfoInputs.cache
+C:\Users\henry\OneDrive\Documentos\SysSeguridadG05-Net\SysSeguridadG05\SysSeguridadG05.EN\obj\Release\net6.0\SysSeguridadG05.EN.AssemblyInfo.cs
+C:\Users\henry\OneDrive\Documentos\SysSeguridadG05-Net\SysSeguridadG05\SysSeguridadG05.EN\obj\Release\net6.0\SysSeguridadG05.EN.csproj.CoreCompileInputs.cache
+C:\Users\henry\OneDrive\Documentos\SysSeguridadG05-Net\SysSeguridadG05\SysSeguridadG05.EN\obj\Release\net6.0\SysSeguridadG05.EN.sourcelink.json
+C:\Users\henry\OneDrive\Documentos\SysSeguridadG05-Net\SysSeguridadG05\SysSeguridadG05.EN\obj\Release\net6.0\SysSeguridadG05.EN.dll
+C:\Users\henry\OneDrive\Documentos\SysSeguridadG05-Net\SysSeguridadG05\SysSeguridadG05.EN\obj\Release\net6.0\refint\SysSeguridadG05.EN.dll
+C:\Users\henry\OneDrive\Documentos\SysSeguridadG05-Net\SysSeguridadG05\SysSeguridadG05.EN\obj\Release\net6.0\SysSeguridadG05.EN.pdb
+C:\Users\henry\OneDrive\Documentos\SysSeguridadG05-Net\SysSeguridadG05\SysSeguridadG05.EN\obj\Release\net6.0\ref\SysSeguridadG05.EN.dll
